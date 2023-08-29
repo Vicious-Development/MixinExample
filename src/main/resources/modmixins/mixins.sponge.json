@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.vicious.mixinexample.mixin.sponge",
+  "refmap": "mixins.zekros.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "client": [],
+  "mixins": [],
+  "server": []
+}
